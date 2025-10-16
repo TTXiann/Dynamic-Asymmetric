@@ -1,6 +1,6 @@
 # Dynamic-Asymmetric
 
-This is the Pytorch code for our paper "Dynamic and Asymmetric Enhancement for Remote Sensing Image Change Captioning" (Submitted).
+This is the Pytorch code for our paper "Dynamic and Asymmetric Enhancement for Remote Sensing Image Change Captioning" (Under review at IEEE Transactions on Geoscience and Remote Sensing (TGRS).).
 
 
 ## LEVIR-CC Dataset 
@@ -15,3 +15,5 @@ CUDA_VISIBLE_DEVICES=0 python eval.py --batch_size 100 --beam_size 3 --n_enc 3 -
 
 ### pretrained Weight
 Download [Link](https://pan.baidu.com/s/1EL0TI1yROffpcmttyqalmA?pwd=eses) code: eses
+
+
